@@ -1,3 +1,10 @@
+/*
+ * Title: 74HC595 Serial-to-Parallel Latch
+ * Author: Osama Mazhar
+ * Date: 22nd May 2011
+ * Email: osamazhar@yahoo.com
+ */
+
 #include<reg51.h>
 #include<math.h>
 
